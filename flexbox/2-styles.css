@@ -186,8 +186,11 @@
     list-style: none;
   }
 
+  /* Section Latest news ============================= */
+
 .row{
   display: flex;
+  flex-direction: row-reverse;
 }
   /* .row::after {
     content: '';
@@ -377,12 +380,6 @@
     padding: 10rem 40rem 2rem 0;
   }
 
-  /* Section Latest news ============================= */
-
-  .section-latest-news{
-    display: flex;
-    flex-direction: row-reverse;
-  }
   
   /*** 4. CARD ***/
   
