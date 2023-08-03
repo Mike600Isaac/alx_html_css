@@ -79,9 +79,9 @@
     --nav-item-margin: 0 2rem 0 0;
     --nav-item-link-hover: var(--color-white);
 
-    /* .navbar-menu {
-    float: right;
-  } */
+    .navbar-menu {
+    /* float: right; */
+  }
 
   
     /** BUTTON **/
@@ -273,16 +273,16 @@
          background: transparent;
   }
   
-  /* .header-logo {
-    position: var(--header-logo-position);
-  } */
+  .header-logo {
+    /* position: var(--header-logo-position); */
+  }
   
-  /* .header-logo a {
-    display: var(--header-logo-link-display);
+  .header-logo a {
+    /* display: var(--header-logo-link-display);
     position: var(--header-logo-link-position);
     top: var(--header-logo-link-top);
-    left: var(--header-logo-link-left);
-  } */
+    left: var(--header-logo-link-left); */
+  }
 
 .header-container {
   display: flex;
